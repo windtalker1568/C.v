@@ -12,8 +12,8 @@ h6{
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	border-radius: 2%;
 	background-size: 400% 400%;
-	-webkit-animation: gradient 8s ease infinite;
-	        animation: gradient 8s ease infinite;
+	-webkit-animation: gradient 10s ease infinite;
+	        animation: gradient 10s ease infinite;
 	margin-top: 50px;
 	margin-bottom: 100px;
 	margin-left: 100px;
