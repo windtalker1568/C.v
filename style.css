@@ -12,24 +12,24 @@ h6{
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	border-radius: 2%;
 	background-size: 400% 400%;
-	-webkit-animation: gradient 5s ease infinite;
-	        animation: gradient 5s ease infinite;
+	-webkit-animation: gradient 8s ease infinite;
+	        animation: gradient 8s ease infinite;
 	margin-top: 50px;
 	margin-bottom: 100px;
 	margin-left: 100px;
 	margin-right: 100px;
 	
 	
-@-webkit-keyframes gradient {
-	0% {
-		background-position: 0% 50%;
+/* @-webkit-keyframes gradient {
+	100% {
+		background-position: 50% 50%;
 	}
 	50% {
 		background-position: 100% 50%;
 	}
 	100% {
-		background-position: 0% 50%;
-	}
+		background-position: 50% 50%;
+	} */
 }
 
 @keyframes gradient {
