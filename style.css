@@ -1,4 +1,6 @@
 body {
+	background-color: burlywood;
+	color: azure;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 h1{
@@ -52,4 +54,12 @@ h3{
 }
 img{
 	border-radius: 10%;
+}
+/* li:hover{
+	
+	color: black;
+	display: block;
+} */
+li{
+	list-style: none;
 }
